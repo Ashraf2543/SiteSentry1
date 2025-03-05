@@ -26,7 +26,7 @@ The extension is hosted on **Netlify**, and the download is available via an **A
 - **JavaScript** – Core logic  
 - **Chrome Extensions API** – Background processing  
 - **HTML & CSS** – User interface  
-- **AWS S3 & Netlify** – Hosting  
+- **Netlify** – Hosting  
 
 ## 💡 Future Enhancements  
 - Add a feature to set usage limits per website  
