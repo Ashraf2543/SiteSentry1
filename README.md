@@ -31,7 +31,7 @@ The extension is hosted on **Netlify**, and the download is available via an **A
 ## 💡 Future Enhancements  
 - Add a feature to set usage limits per website  
 - Export time tracking data  
-- Support for multiple browsers  
+- Support for IOS Ecosytem supported browsers  
 
 ## 📩 Contact  
 For suggestions or issues, feel free to create an issue or contact the development team.  
