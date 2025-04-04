@@ -35,7 +35,7 @@ The extension is hosted on **Netlify**, and the download is available via an **A
 
 ## 📩 Contact  
 For suggestions or issues, feel free to create an issue or contact the development team.  
-
+ashraf.jamal.652@gmail.com
 ---
 
 **⭐ Star this project if you like it!**  
